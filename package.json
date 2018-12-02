@@ -1,0 +1,17 @@
+{
+  "name": "nightwatch-test-project",
+  "version": "1.0.0",
+  "description": "NightwatchJS e2e test",
+  "main": "nightwatch.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}

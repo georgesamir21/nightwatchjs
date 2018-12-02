@@ -1,3 +1,4 @@
+/node_modules/
 /tests/bin/
 /tests/reports/*
 /tests/logs/*
